@@ -12,7 +12,9 @@
   Gameplay is a project where game lovers can schedule matches with other users
 </h4>
 
-![Let Me Ask preview](https://github.com/marciobahia/Gameplay/blob/master/assets/preview.jpg)
+![Let Me Ask preview]
+<img src="https://github.com/marciobahia/Gameplay/blob/master/assets/preview.jpg" width="300" >
+
 
 ## Tecnologies
 
