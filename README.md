@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marciobahia/Gameplay/blob/master/assets/icon.png" >
+  <img src="https://github.com/marciobahia/Gameplay/blob/master/assets/icon.png" width="300" >
 </div>
 
 ## Let Me Ask
