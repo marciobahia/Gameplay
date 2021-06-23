@@ -12,7 +12,7 @@
   Gameplay is a project where game lovers can schedule matches with other users
 </h4>
 
-![Let Me Ask preview](.github/app-preview.png)
+![Let Me Ask preview](https://github.com/marciobahia/Gameplay/blob/master/assets/preview.jpg)
 
 ## Tecnologies
 
@@ -22,13 +22,13 @@ This project was developed using cutting edge front-end technologies.
 - [React Native](https://reactjs.org/)
 - [Expo](https://expo.io)
 - [Babel](https://babeljs.io/docs/en/)
-- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
+
 
 ## 💻 Getting started
 
 ### Requirements
 
-- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+- You need to install both [Expo](https://expo.io) and [Yarn](https://yarnpkg.com/) to run this project.
 
 **Clone the project and access the folder**
 
@@ -42,13 +42,12 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 # Install the dependencies
 $ yarn
 
-# Remember to configure your .env.local following the .env.exemple
 
 # Run the web server
 $ yarn start
 ```
 
-The app will be available for access on your browser at `http://localhost:3000`
+Open the App Expo on your smartphone, scan the application's QR Code.
 
 ## 📝 License
 
