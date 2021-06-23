@@ -1,9 +1,59 @@
-# Olá dev 👋
+<div align="center">
+  <img src="https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/logo.svg">
+</div>
 
-Bem vindo ao projeto **GamePlay** da **Next Level Week Together**. Aqui, você vai encontrar o código fonte que será liberado a cada aula, separado por branch. 🤩
+## Let Me Ask
 
-Vai ser incrível criarmos esse App. Borá codar! 🚀 
+[![Author](https://img.shields.io/badge/author-marciobahia-835AFD?style=flat-square)](https://github.com/marciobahia)
+[![Languages](https://img.shields.io/github/languages/count/josepholiveira/letmeask?color=%23835AFD&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
+
+<h4 align="center">
+  Let Me Ask is a platform built to let you gather questions from your viewers during your stream and let them vote for which are the best questions for you to answer.
+</h4>
+
+![Let Me Ask preview](.github/app-preview.png)
+
+## Tecnologies
+
+This project was developed using cutting edge front-end technologies.
 
 
-[![Instagram Badge](https://img.shields.io/badge/-rodrigo.goncalves.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
+- [React Native](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Firebase Authentication](https://firebase.google.com/products/auth)
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
+
+## 💻 Getting started
+
+### Requirements
+
+- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+
+**Clone the project and access the folder**
+
+```bash
+$ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
+```
+
+**Follow the steps below**
+
+```bash
+# Install the dependencies
+$ yarn
+
+# Remember to configure your .env.local following the .env.exemple
+
+# Run the web server
+$ yarn start
+```
+
+The app will be available for access on your browser at `http://localhost:3000`
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜 by Marcio Bahia 👋 [Check out my LinkedIn](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/)
