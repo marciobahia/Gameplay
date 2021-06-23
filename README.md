@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marciobahia/Letmeask/blob/master/src/assets/images/logo.svg">
+  <img src="https://github.com/marciobahia/Gameplay/blob/master/assets/icon.png" >
 </div>
 
 ## Let Me Ask
