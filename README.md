@@ -20,8 +20,8 @@ This project was developed using cutting edge front-end technologies.
 
 
 - [React Native](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Firebase Authentication](https://firebase.google.com/products/auth)
+- [Expo](https://expo.io)
+- [Babel](https://babeljs.io/docs/en/)
 - [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 
 ## 💻 Getting started
