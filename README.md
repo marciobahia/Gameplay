@@ -23,7 +23,7 @@
 This project was developed using cutting edge front-end technologies.
 
 
-- [React Native](https://reactjs.org/)
+- [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
 - [Babel](https://babeljs.io/docs/en/)
 
