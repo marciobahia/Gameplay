@@ -20,7 +20,7 @@
 
 ## Tecnologies
 
-This project was developed using the following technologies
+This project was developed using the following technologies:
 
 
 - [React Native](https://reactnative.dev)
