@@ -45,10 +45,10 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 
 ```bash
 
-**Install the dependencies**
-$ npm install <package>@<version> 
+    **Install the dependencies**
+    $ npm install <package>@<version> 
 
-**Dependencies**
+    **Dependencies**
 
     @expo-google-fonts/inter": "^0.1.0
     @expo-google-fonts/rajdhani": "^0.1.0
@@ -82,8 +82,8 @@ $ npm install <package>@<version>
     typescript": "~4.0.0
 
 
-**Run the web server**
-$ yarn start
+    **Run the web server**
+    $ yarn start
 ```
 
 Open the App Expo on your smartphone, scan the application's QR Code.
