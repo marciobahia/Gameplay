@@ -26,6 +26,7 @@ This project was developed using cutting edge front-end technologies.
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.io)
 - [Babel](https://babeljs.io/docs/en/)
+- [Firebase](https://firebase.google.com)
 
 
 ## 💻 Getting started
