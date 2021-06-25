@@ -47,41 +47,21 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 
     **Install the dependencies**
     
-    $ npm install <package>@<version> 
+    # Clone este repositório
+$ git clone git@github.com:marcio/letmeask.git
 
-    **Dependencies**
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd letmeask
 
-    @expo-google-fonts/inter": "^0.1.0
-    @expo-google-fonts/rajdhani": "^0.1.0
-    @react-native-community/masked-view": "0.1.10
-    @react-navigation/native": "^5.9.4
-    @react-navigation/stack": "^5.14.5
-    axios": "^0.21.1
-    expo": "~41.0.1
-    expo-app-loading": "^1.0.3
-    expo-auth-session": "~3.2.3
-    expo-font": "~9.1.0
-    expo-linear-gradient": "~9.1.0
-    expo-random": "~11.1.2
-    expo-status-bar": "~1.0.4
-    react": "16.13.1
-    react-dom": "16.13.1
-    react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz
-    react-native-gesture-handler": "~1.10.2
-    react-native-iphone-x-helper": "^1.3.1
-    react-native-reanimated": "~2.1.0
-    react-native-safe-area-context": "3.2.0
-    react-native-screens": "~3.0.0
-    react-native-svg": "12.1.0
-    react-native-web": "~0.13.12
-  
-    devDependencies:
-    @babel/core": "^7.9.0
-    @types/react": "~16.9.35
-    @types/react-native": "~0.63.2
-    react-native-svg-transformer": "^0.14.3
-    typescript": "~4.0.0
+# Instale as dependências
+$ yarn install
+# ou npm install
 
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+# ou npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
     **Run the web server**
     $ yarn start
