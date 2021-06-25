@@ -63,8 +63,6 @@ $ yarn start
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
-    **Run the web server**
-    $ yarn start
 ```
 
 Open the App Expo on your smartphone, scan the application's QR Code.
