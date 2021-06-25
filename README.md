@@ -47,14 +47,14 @@ $ git clone https://github.com/marciobahia/Gameplay.git
 
     **Install the dependencies**
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder on your terminal/cmd
 $ cd letmeask
 
-# Instale as dependências
+# Install the dependencies
 $ yarn install
 # ou npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ yarn start
 # ou npm run start
 
