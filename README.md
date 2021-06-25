@@ -46,9 +46,6 @@ $ git clone https://github.com/marciobahia/Gameplay.git
 ```bash
 
     **Install the dependencies**
-    
-    # Clone este repositório
-$ git clone git@github.com:marcio/letmeask.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd letmeask
@@ -61,7 +58,6 @@ $ yarn install
 $ yarn start
 # ou npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 
 ```
 
