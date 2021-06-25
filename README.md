@@ -38,7 +38,7 @@ This project was developed using the following technologies:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
+$ git clone https://github.com/marciobahia/Gameplay.git
 ```
 
 **Follow the steps below**
